@@ -3,7 +3,9 @@
 1. Personal Luggage Datasets
 2. Aircraft satellite image dataset
 3. Metal Scrap Dataset
-### Mental Health - Reach us for datasets @jhansi_cse@vnrvjiet.in
+### Mental Health - Reach us for datasets @ jhansi_cse@vnrvjiet.in
 1. Self assessment scores - depression , anxiety, stress
 ### Cognitive Science - Reach us for datasets @akhil_k@vnrvjiet.in  
 1. Cognitive scores towards problem solving - 
+### Education - Reach us for datasets @ madhavi_a@vnrvjiet.in
+1. e-Learning LMS dataset 
