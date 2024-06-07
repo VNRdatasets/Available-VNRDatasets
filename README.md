@@ -14,3 +14,5 @@
 2. DesignThinkingDataset 
 ### Facial image data - Reach us for datasets @ sriramamurthy_k@vnrvjiet.in  
 1. Real real-time Emotion dataset
+### Drinking Water quality metrics dataset - Reach us for datasets @ padmavathi_p@vnrvjiet.in 
+1. Drinking Water Quality Measures datset
